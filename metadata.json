@@ -1,0 +1,6 @@
+{
+  "name": "Majdur Furniture Works",
+  "description": "Majdur Furniture Works, 20+ years of furniture-making experience, custom furniture, beds, sofas, wardrobes, dining furniture, study furniture and more in Motihari, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
